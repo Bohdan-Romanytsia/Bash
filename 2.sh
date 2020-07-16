@@ -7,7 +7,6 @@ do
 file='${strarr[i]}'
     if [ -f '$file' ]
         then
-            echo '$file is regular file.'
             ls -l '$file'
         else
             echo '$file not regular file or does not exist.'
