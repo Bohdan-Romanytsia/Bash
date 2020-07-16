@@ -9,6 +9,6 @@ echo $currentdate >> $HOME/text.txt
 find $HOME -maxdepth 1 -mindepth 1 -type d | while read directory; 
 do
   filename=$(basename '$directory')	
-  counter=$(find "$directory" -type f,d | wc -l)
+  counter=$(find '$directory' -type f,d | wc -l)
   echo $filename $(($counter-1)) >> $HOME/text.txt
 done
