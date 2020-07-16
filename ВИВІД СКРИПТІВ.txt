@@ -1,0 +1,69 @@
+ВИВІД СКРИПТА №1
+Enter a filename, please
+1.sh
+Yes, you did everything right
+Your file exists
+1.sh is a regular file.
+-rwxrwxr-x 1 ubuntu ubuntu 509 лип 10 16:16 1.sh
+
+ВИВІД СКРИПТА №2
+Enter a filename, please
+1.sh papka paka papka2 2.sh
+-rwxrwxr-x 1 ubuntu ubuntu 509 лип 10 16:16 1.sh
+-rwxrwxr-x 1 ubuntu ubuntu 277 лип 15 15:57 2.sh
+
+ВИВІД СКРИПТА №3
+четвер, 16 липня 2020 11:11:46 +0300
+.ssh 0
+Public 0
+Pictures 1
+.config 194
+Desktop 0
+scripts 11
+.thunderbird 51
+Music 0
+snap 3
+Documents 0
+Templates 0
+.cache 1334
+.mozilla 749
+Downloads 0
+Videos 0
+.gnupg 3
+.local 98
+четвер, 16 липня 2020 11:15:00 +0300
+.ssh 0
+Public 0
+Pictures 1
+.config 194
+Desktop 0
+scripts 11
+.thunderbird 51
+Music 0
+snap 3
+Documents 0
+Templates 0
+.cache 1334
+.mozilla 749
+Downloads 0
+Videos 0
+.gnupg 3
+.local 98
+четвер, 16 липня 2020 11:16:01 +0300
+.ssh 0
+Public 0
+Pictures 1
+.config 194
+Desktop 0
+scripts 11
+.thunderbird 51
+Music 0
+snap 3
+Documents 0
+Templates 0
+.cache 1334
+.mozilla 749
+Downloads 0
+Videos 0
+.gnupg 3
+.local 98
